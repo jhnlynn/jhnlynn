@@ -1,0 +1,26 @@
+{
+    "name": "johannes-lin",
+    "version": "1.0.0",
+    "description": "My Github Profile",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/johannes-lin/johannes-lin.git"
+    },
+    "author": "Jiahan(Johan) Lin",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/johannes-lin/johannes-lin/issues"
+    },
+    "homepage": "https://github.com/johannes-lin/johannes-lin/blob/master/README.md",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "markdown-it": "^11.0.0",
+      "markdown-it-emoji": "^1.4.0"
+    }
+  }
+  
