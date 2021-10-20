@@ -19,6 +19,11 @@ const md = require('markdown-it') ({
     breaks: true
 });
 
+// refer to this: https://observablehq.com/@d3/d3-line
+// to use d3
+const d3_node = require('d3-node');
+const d3_shape = require('d3-shape');
+
 const emoji = require('markdown-it-emoji');
 const fs = require('fs');
 const axios = require('axios').default;
@@ -135,7 +140,12 @@ const tools = toolBadges.reduce((result, toolConfig) => result + '\n' + generate
 
 const visitor_counter = `![visitors](https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&left_color=green&right_color=red)`
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=johannes-lin&show_icons=true&count_private=true&theme=react" alt="johan-lin" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?username=johannes-lin&show_icons=true&count_private=true&theme=default" alt="johan-lin" />`;
+
+const data = {
+
+};
+const myLine = d3_shape.line();
 
 const content = `${introTitle}\n
 ${self_intro}\n
