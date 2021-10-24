@@ -150,10 +150,10 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
-${`<!--START_SECTION:waka-->`}\n
-${` `}\n
-${` `}\n
-${`<!--END_SECTION:waka-->`}\n
+${`> <!--START_SECTION:waka-->`}\n
+${`> `}\n
+${`> `}\n
+${`> <!--END_SECTION:waka-->`}\n
 <br>\n
 ${stats}\n
 ${visitor_counter}\n
