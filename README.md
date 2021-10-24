@@ -1,7 +1,7 @@
 <h2>Hello world 👽, I'm Jiahan(Johan) Lin</h2>
 <p>I am currently a Computer Engineering grad student<a href="https://nyu.joinhandshake.com/users/34008685">@NYU</a>, and I am now building my webpage, which gonna be deployed to my own domain.</p>
 <p>You can find <a href="https://johannes-lin.github.io/">some blogs</a> of mine</p>
-<p><a href="https://johannes-lin.github.io/"><img src="https://img.shields.io/website?up_message=johannes-lin&amp;url=https%3A%2F%2Fjohannes-lin.github.io%2F" alt="johannes-lin Badge"></a> <a href="https://www.linkedin.com/in/jiahanlin/"><img src="https://img.shields.io/badge/-@JiahanLin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jiahanlin/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0"><img src="https://img.shields.io/badge/-@Johan%20Lin-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0" alt="Spotify Badge"></a></p>
+<p><a href="https://johannes-lin.github.io/"><img src="https://img.shields.io/badge/-Johannes-Lin-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://johannes-lin.github.io/" alt="johannes-lin Badge"></a> <a href="https://www.linkedin.com/in/jiahanlin/"><img src="https://img.shields.io/badge/-@JiahanLin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jiahanlin/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0"><img src="https://img.shields.io/badge/-@Johan%20Lin-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0" alt="Spotify Badge"></a></p>
 <h2>Below are some tools for my daily use:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=johannes-lin&show_icons=true&count_private=true" alt="johan-lin" />
+<img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&show_icons=true&count_private=true" alt="johan-lin" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&amp;left_color=green&amp;right_color=red" alt="visitors"></p>
 <br>
 <br>
