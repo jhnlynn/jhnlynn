@@ -27,18 +27,18 @@ md.use(emoji);
 
 const introTitle = generateTitle(2, `Hello world :alien:, I'm Jiahan(Johan) Lin`);
 
-const blog_url = `You can find ${generateLink('some blogs', 'https://johannes-lin.github.io/')} of mine`;
+const blog_url = `You can find ${generateLink('some blogs', 'https://jhnlynn.github.io')} of mine`;
 
 const self_intro = `I am currently a Computer Engineering grad student${ generateLink('@NYU', 'https://nyu.joinhandshake.com/users/34008685') }, and I am now building my webpage, which gonna be deployed to my own domain.`;
 
     const badgeConfigs = [
         {
-            name: 'johannes-lin',
-            badgeText: 'Johannes-Lin',
+            name: 'Johan-lin',
+            badgeText: 'Johan-Lin',
             labelBgColor: '4E69C8',
             logoBgColor: '4E69C8',
             logo: 'Firefox',
-            link: 'https://johannes-lin.github.io/',
+            link: 'https://jhnlynn.github.io',
         },
     {
         name: 'LinkedIn',
@@ -62,8 +62,9 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 
 const gifs = `<img align="right" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif?cid=ecf05e4736ja2ur0f27i7848b09dreq3cai96m9hu9g603fh&rid=giphy.gif&ct=g" />`;
 
-const toolsTitle = generateTitle(2, `Below are some tools for my daily use: `);
+const toolsTitle = generateTitle(2, `Below are some stats for my daily use: `);
 const toolsIconSize = 25;
+
 
 const toolBadges = [{
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg',
@@ -149,14 +150,12 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
+${`<!--START_SECTION:waka-->`}\n
+<br>\n
+${`<!--END_SECTION:waka-->`}\n
 <br>\n
 ${stats}\n
 ${visitor_counter}\n
-<br>
-<br>
-${"<!--START_SECTION:waka-->"}
-<br>
-${"<!--END_SECTION:waka-->"}
 `;
 
 const markdownContent = md.render(content);
@@ -173,7 +172,7 @@ fs.writeFile('README.md', markdownContent, (err) => {
 
 function generateBadge(badgeConfig) {
     if (badgeConfig.name == "jhnlynn") {
-        return `[![${badgeConfig.name} Badge](https://img.shields.io/website?up_message=johannes-lin&url=https%3A%2F%2Fjohannes-lin.github.io%2F)](https://johannes-lin.github.io/)`;
+        return `[![${badgeConfig.name} Badge](https://img.shields.io/website?up_message=johan-lin&url=https%3A%2F%2Fjhnlynn.github.io%2F)](https://jhnlynn.github.io/)`;
     }
     return `[![${badgeConfig.name} Badge](https://img.shields.io/badge/-${badgeConfig.badgeText}-${badgeConfig.labelBgColor}?style=flat-square&labelColor=${badgeConfig.logoBgColor}&logo=${badgeConfig.logo}&link=${badgeConfig.link})](${badgeConfig.link})`;
 }
