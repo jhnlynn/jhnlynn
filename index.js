@@ -135,7 +135,7 @@ const tools = toolBadges.reduce((result, toolConfig) => result + '\n' + generate
 
 const visitor_counter = `![visitors](https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&left_color=green&right_color=red)`
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=johannes-lin&show_icons=true&count_private=true" alt="johan-lin" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&show_icons=true&count_private=true" alt="johan-lin" />`;
 
 const data = {
 
@@ -171,7 +171,7 @@ fs.writeFile('README.md', markdownContent, (err) => {
 
 
 function generateBadge(badgeConfig) {
-    if (badgeConfig.name == "johannes-lin") {
+    if (badgeConfig.name == "jhnlynn") {
         return `[![${badgeConfig.name} Badge](https://img.shields.io/website?up_message=johannes-lin&url=https%3A%2F%2Fjohannes-lin.github.io%2F)](https://johannes-lin.github.io/)`;
     }
     return `[![${badgeConfig.name} Badge](https://img.shields.io/badge/-${badgeConfig.badgeText}-${badgeConfig.labelBgColor}?style=flat-square&labelColor=${badgeConfig.logoBgColor}&logo=${badgeConfig.logo}&link=${badgeConfig.link})](${badgeConfig.link})`;
