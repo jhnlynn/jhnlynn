@@ -1,7 +1,7 @@
 <h2>Hello world 👽, I'm Jiahan(Johan) Lin</h2>
 <p>I am currently a Computer Engineering grad student<a href="https://nyu.joinhandshake.com/users/34008685">@NYU</a>, and I am now building my webpage, which gonna be deployed to my own domain.</p>
 <p>You can find <a href="https://jhnlynn.github.io">some blogs</a> of mine</p>
-<p><a href="https://jhnlynn.github.io"><img src="https://img.shields.io/badge/-Johan-Lin-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jhnlynn.github.io" alt="Johan-lin Badge"></a> <a href="https://www.linkedin.com/in/jiahanlin/"><img src="https://img.shields.io/badge/-@JiahanLin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jiahanlin/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0"><img src="https://img.shields.io/badge/-@Johan%20Lin-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0" alt="Spotify Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/jiahanlin/"><img src="https://img.shields.io/badge/-@JiahanLin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jiahanlin/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0"><img src="https://img.shields.io/badge/-@Johan%20Lin-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0" alt="Spotify Badge"></a></p>
 <h2>Below are some stats for my daily use:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -22,10 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <!--START_SECTION:waka-->
-<br>
-<br>
-<br>
-<br>
 <!--END_SECTION:waka-->
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&show_icons=true&count_private=true" alt="johan-lin" />
