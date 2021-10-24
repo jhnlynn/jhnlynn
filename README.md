@@ -24,3 +24,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=johannes-lin&show_icons=true&count_private=true" alt="johan-lin" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&amp;left_color=green&amp;right_color=red" alt="visitors"></p>
+<br>
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
