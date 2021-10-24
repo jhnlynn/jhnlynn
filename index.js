@@ -32,14 +32,14 @@ const blog_url = `You can find ${generateLink('some blogs', 'https://jhnlynn.git
 const self_intro = `I am currently a Computer Engineering grad student${ generateLink('@NYU', 'https://nyu.joinhandshake.com/users/34008685') }, and I am now building my webpage, which gonna be deployed to my own domain.`;
 
     const badgeConfigs = [
-        {
-            name: 'Johan-lin',
-            badgeText: 'Johan-Lin',
-            labelBgColor: '4E69C8',
-            logoBgColor: '4E69C8',
-            logo: 'Firefox',
-            link: 'https://jhnlynn.github.io',
-        },
+        // {
+        //     name: 'Johan-lin',
+        //     badgeText: 'Johan-Lin',
+        //     labelBgColor: '4E69C8',
+        //     logoBgColor: '4E69C8',
+        //     logo: 'Firefox',
+        //     link: 'https://jhnlynn.github.io',
+        // },
     {
         name: 'LinkedIn',
         badgeText: '@JiahanLin',
@@ -151,10 +151,9 @@ ${toolsTitle}\n
     ${tools}\n
 </p>\n
 ${`<!--START_SECTION:waka-->`}\n
-<br>
-<br>
-<br>
-<br>
+\n
+\n
+\n
 ${`<!--END_SECTION:waka-->`}\n
 <br>\n
 ${stats}\n
