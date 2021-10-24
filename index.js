@@ -151,7 +151,10 @@ ${toolsTitle}\n
     ${tools}\n
 </p>\n
 ${`<!--START_SECTION:waka-->`}\n
-<br>\n
+<br>
+<br>
+<br>
+<br>
 ${`<!--END_SECTION:waka-->`}\n
 <br>\n
 ${stats}\n
@@ -172,7 +175,7 @@ fs.writeFile('README.md', markdownContent, (err) => {
 
 function generateBadge(badgeConfig) {
     if (badgeConfig.name == "jhnlynn") {
-        return `[![${badgeConfig.name} Badge](https://img.shields.io/website?up_message=johan-lin&url=https%3A%2F%2Fjhnlynn.github.io%2F)](https://jhnlynn.github.io/)`;
+        return `[![${badgeConfig.name} Badge](https://img.shields.io/website?up_color=red&up_message=johan-lin&url=https%3A%2F%2Fjhnlynn.github.io%2F)](https://jhnlynn.github.io/)`;
     }
     return `[![${badgeConfig.name} Badge](https://img.shields.io/badge/-${badgeConfig.badgeText}-${badgeConfig.labelBgColor}?style=flat-square&labelColor=${badgeConfig.logoBgColor}&logo=${badgeConfig.logo}&link=${badgeConfig.link})](${badgeConfig.link})`;
 }
