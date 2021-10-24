@@ -152,6 +152,10 @@ ${toolsTitle}\n
 <br>\n
 ${stats}\n
 ${visitor_counter}\n
+<br>
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 `;
 
 const markdownContent = md.render(content);
