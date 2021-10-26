@@ -22,6 +22,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <!--START_SECTION:waka-->
+```text
+Java         9 hrs 24 mins   ██████████████████▓░░░░░░   74.78 % 
+JavaScript   1 hr 55 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Other        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Vue.js       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
 <!--END_SECTION:waka-->
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&show_icons=true&count_private=true" alt="johan-lin" />
