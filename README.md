@@ -23,13 +23,9 @@
 </p>
 <blockquote>
 <!--START_SECTION:waka-->
-```text
-Java         3 hrs 43 mins   ███████████████████▒░░░░░   77.42 % 
-Other        30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Vue.js       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-```
+</blockquote>
+<p>[object Object]</p>
+<blockquote>
 <!--END_SECTION:waka-->
 </blockquote>
 <br>
