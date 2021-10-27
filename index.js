@@ -66,13 +66,18 @@ const toolsTitle = generateTitle(2, `Below are some stats for my daily use: `);
 const toolsIconSize = 25;
 
 
-const toolBadges = [{
+const toolBadges = [
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg',
+        alt: 'java',
+    },
+    {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg',
         alt: 'react',
     },
     {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg',
-        alt: 'angular-js',
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
+        alt: 'javascript',
     },
     {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg',
@@ -85,18 +90,6 @@ const toolBadges = [{
     {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg',
         alt: 'css3',
-    },
-    {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg',
-        alt: 'java',
-    },
-    {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
-        alt: 'javascript',
-    },
-    {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
-        alt: 'typescript',
     },
     {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg',
@@ -121,15 +114,7 @@ const toolBadges = [{
     {
         src: 'https://www.vectorlogo.zone/logos/springio/springio-icon.svg',
         alt: 'spring',
-    },
-    {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg',
-        alt: 'python',
-    },
-    {
-        src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg',
-        alt: 'Go',
-    },
+    }
 ];
 
 const tools = toolBadges.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
@@ -142,6 +127,8 @@ const data = {
 
 };
 
+const wakaTimeStats = `[![Johan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn)](https://github.com/jhnlynn/jhnlynn)`;
+
 const content = `${introTitle}\n
 ${self_intro}\n
 ${blog_url}\n
@@ -150,8 +137,7 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
-${`<!--START_SECTION:waka-->`}\n
-${`<!--END_SECTION:waka-->`}\n
+${wakaTimeStats}\n
 <br>\n
 ${stats}\n
 ${visitor_counter}\n
