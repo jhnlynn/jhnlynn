@@ -1,6 +1,5 @@
 <h2>Hello world 👽, I'm Jiahan(Johan) Lin</h2>
 <p>I am currently a Computer Engineering grad student<a href="https://nyu.joinhandshake.com/users/34008685">@NYU</a>, and I am now building my webpage, which gonna be deployed to my own domain.</p>
-<p>You can find <a href="https://jhnlynn.github.io">some blogs</a> of mine</p>
 <p><a href="https://www.linkedin.com/in/jiahanlin/"><img src="https://img.shields.io/badge/-@JiahanLin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jiahanlin/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0"><img src="https://img.shields.io/badge/-@Johan%20Lin-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/qxbv7msm01prpq2fe0mk4etf0" alt="Spotify Badge"></a></p>
 <h2>Below are some stats for my daily use:</h2>
 <p align="left">
