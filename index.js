@@ -136,11 +136,12 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
-${wakaTimeStats}\n
-<br>\n
 ${stats}\n
 ${visitor_counter}\n
 `;
+
+// ${wakaTimeStats}\n
+// <br>\n
 
 const markdownContent = md.render(content);
 
