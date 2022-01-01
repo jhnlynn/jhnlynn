@@ -92,6 +92,10 @@ const toolBadges = [
         alt: 'css3',
     },
     {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg',
+        alt: 'go',
+    },
+    {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg',
         alt: '.NET',
     },
