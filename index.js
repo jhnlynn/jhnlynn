@@ -134,6 +134,7 @@ const data = {
 const wakaTimeStats = `[![Johan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn)](https://github.com/jhnlynn/jhnlynn)`;
 
 const content = `${introTitle}\n
+${self_intro}\n
 ${badges}\n
 ${toolsTitle}\n
 <p align="left">\n
