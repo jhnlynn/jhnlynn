@@ -131,7 +131,8 @@ const data = {
 
 };
 
-const wakaTimeStats = `[![Johan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn)](https://github.com/jhnlynn/jhnlynn)`;
+// const wakaTimeStats = `[![Johan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn)](https://github.com/jhnlynn/jhnlynn)`;
+const githubStats = `![](https://github.com/jhnlynn/github-stats/blob/master/generated/languages.svg)`
 
 const content = `${introTitle}\n
 ${self_intro}\n
@@ -140,7 +141,7 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
-${wakaTimeStats}\n
+${githubStats}\n
 <br>\n
 ${stats}\n
 ${visitor_counter}\n
