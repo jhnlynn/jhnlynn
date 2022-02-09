@@ -142,7 +142,7 @@ ${toolsTitle}\n
     ${tools}\n
 </p>\n
 
-${stats}\n
+${stats}
 ${githubStats}\n
 ${visitor_counter}\n
 `;
