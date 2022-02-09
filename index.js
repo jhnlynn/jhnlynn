@@ -29,7 +29,7 @@ const introTitle = generateTitle(2, `Hello world :alien:, I'm Jiahan(Johan) Lin`
 
 // const blog_url = `You can find ${generateLink('some blogs', 'https://jhnlynn.github.io')} of mine`;
 
-const self_intro = `I am currently a Computer Engineering grad student @NYU, and here's my ${generateLink('Link', 'https://johan-portfolio-app.herokuapp.com/')}`;
+const self_intro = `I am currently a Computer Engineering grad student @NYU, and here's my ${generateLink('Portfolio Link', 'https://johan-portfolio-app.herokuapp.com/')}`;
 
     const badgeConfigs = [
         // {
@@ -125,7 +125,7 @@ const tools = toolBadges.reduce((result, toolConfig) => result + '\n' + generate
 
 const visitor_counter = `![visitors](https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&left_color=green&right_color=red)`
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&show_icons=true&count_private=true" alt="johan-lin" />`;
+const stats = `![](https://github.com/jhnlynn/github-stats/blob/master/generated/overview.svg)`
 
 const data = {
 
@@ -141,9 +141,9 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
-${githubStats}\n
-<br>\n
+
 ${stats}\n
+${githubStats}\n
 ${visitor_counter}\n
 `;
 
