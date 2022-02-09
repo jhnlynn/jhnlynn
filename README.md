@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
 </p>
-<p><a href="https://github.com/jhnlynn/jhnlynn"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn" alt="Johan's wakatime stats"></a></p>
+<p><img src="https://github.com/jhnlynn/github-stats/blob/master/generated/languages.svg" alt=""></p>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&show_icons=true&count_private=true" alt="johan-lin" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&amp;left_color=green&amp;right_color=red" alt="visitors"></p>
