@@ -17,6 +17,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
 </p>
-<p><img src="https://github.com/jhnlynn/github-stats/blob/master/generated/overview.svg" alt=""><br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jhnlynn&amp;show_icons=true" alt="github-stats"><br>
 <img src="https://github.com/jhnlynn/github-stats/blob/master/generated/languages.svg" alt=""></p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=johannes-lin.johannes-lin&amp;left_color=green&amp;right_color=red" alt="visitors"></p>
