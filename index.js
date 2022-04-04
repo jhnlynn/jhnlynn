@@ -10,7 +10,7 @@ My Github Profile
 // markdown-it-emoji
 // fs
 
-// format: 
+// format:
 // const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://stanleylim.me/')}`);
 
 const md = require('markdown-it') ({
@@ -141,8 +141,7 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
-
-${stats}
+${realgithubStats}
 ${githubStats}\n
 ${visitor_counter}\n
 `;
@@ -150,7 +149,7 @@ ${visitor_counter}\n
 const markdownContent = md.render(content);
 
 fs.writeFile('README.md', markdownContent, (err) => {
-        
+
     if (err) {
         return console.error(err);
     }
