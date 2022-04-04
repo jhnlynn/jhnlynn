@@ -131,6 +131,7 @@ const data = {
 
 };
 
+const realgithubStats = `![](https://github-readme-stats.vercel.app/api?username=jhnlynn&amp;show_icons=true)`;
 // const wakaTimeStats = `[![Johan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn)](https://github.com/jhnlynn/jhnlynn)`;
 const githubStats = `![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnlynn&layout=compact&count_private=true&theme=default)`
 
