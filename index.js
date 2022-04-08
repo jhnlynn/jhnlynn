@@ -29,7 +29,7 @@ const introTitle = generateTitle(2, `Hello world :alien:, I'm Jiahan(Johan) Lin`
 
 // const blog_url = `You can find ${generateLink('some blogs', 'https://jhnlynn.github.io')} of mine`;
 
-const self_intro = `I am currently a Computer Engineering grad student @NYU, and here's my ${generateLink('Portfolio Link', 'https://johan-portfolio-app.herokuapp.com/')}`;
+const self_intro = `I am currently a Computer Engineering grad student @NYU, and here's my ${generateLink('Portfolio Link', 'https://master.d1frq0k5r6sok7.amplifyapp.com')}`;
 
     const badgeConfigs = [
         // {
