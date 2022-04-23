@@ -1,6 +1,11 @@
 name: BUILD-README
 # on: This example uses the push event, so that the jobs run every time someone pushes a change to the repository. 
-on: [push]
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
