@@ -68,6 +68,10 @@ const toolsIconSize = 25;
 
 const toolBadges = [
     {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg',
+        alt: 'python',
+    },
+    {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg',
         alt: 'java',
     },
@@ -80,11 +84,11 @@ const toolBadges = [
         alt: 'javascript',
     },
     {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg',
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg',
         alt: 'vue',
     },
     {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg',
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg',
         alt: 'bootstrap',
     },
     {
@@ -92,20 +96,24 @@ const toolBadges = [
         alt: 'css3',
     },
     {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg',
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg',
         alt: 'go',
     },
     {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg',
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg',
         alt: '.NET',
     },
     {
-        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg',
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg',
         alt: 'mongodb',
     },
     {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg',
         alt: 'mysql',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg',
+        alt: 'postgresql'
     },
     {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg',
@@ -114,6 +122,14 @@ const toolBadges = [
     {
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg',
         alt: 'nodejs',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg',
+        alt: 'flask',
+    },
+    {
+        src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg',
+        alt: 'django',
     },
     {
         src: 'https://www.vectorlogo.zone/logos/springio/springio-icon.svg',
