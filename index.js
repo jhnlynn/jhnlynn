@@ -153,8 +153,9 @@ const githubStats = `![](https://github-readme-stats.vercel.app/api/top-langs/?u
 const streak = `![](https://github-readme-streak-stats.herokuapp.com?user=jhnlynn&hide_border=true&ring=7EDDCF&fire=7EDDCF)`;
 
 const content = `
-${realgithubStats}
-${githubStats} ${streak}\n
+${streak}\n
+${realgithubStats}\n
+${githubStats}\n
 ${visitor_counter}\n
 `;
 
