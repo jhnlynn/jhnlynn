@@ -150,16 +150,11 @@ const data = {
 const realgithubStats = `![](https://github-readme-stats.vercel.app/api?username=jhnlynn&amp;show_icons=true)`;
 // const wakaTimeStats = `[![Johan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhnlynn)](https://github.com/jhnlynn/jhnlynn)`;
 const githubStats = `![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnlynn&layout=compact&count_private=true&theme=default)`
+const streak = `![](https://github-readme-streak-stats.herokuapp.com?user=jhnlynn&hide_border=true&ring=7EDDCF&fire=7EDDCF)`;
 
-const content = `${introTitle}\n
-${self_intro}\n
-${badges}\n
-${toolsTitle}\n
-<p align="left">\n
-    ${tools}\n
-</p>\n
+const content = `
 ${realgithubStats}
-${githubStats}\n
+${githubStats} ${streak}\n
 ${visitor_counter}\n
 `;
 
